@@ -22,10 +22,6 @@ Create a note taker application that will allow the user to create, save, and de
 
 The following images show the web application's appearance and functionality: 
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/Screen Shot 2021-02-04 at 4.16.21 PM
-![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
-
-
 
 
 
