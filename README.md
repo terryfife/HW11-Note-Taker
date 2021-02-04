@@ -13,9 +13,6 @@ Create a note taker application that will allow the user to create, save, and de
 
 ## Acceptance Criteria
 
-```
-
-```
 
 
 ## Mock-Up
